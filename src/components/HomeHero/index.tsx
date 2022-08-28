@@ -28,6 +28,7 @@ function HomeHero() {
           </CodeItem>
 
           <CodeItem>
+            <span className="comment">//Minha função</span>
             <span className="purple">Cargo</span> {'\u007B'}
             <div>
               Função: <span className="blue">Dev Front-End,</span>

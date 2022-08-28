@@ -5,7 +5,7 @@ const theme = {
   secondary: '#7AC7E3',
   gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
   text: '#848DA0',
-  textLight: 'C4C4C4',
+  textLight: '#C4C4C4',
   textHightLight: '#444B5B',
   border: '#313958',
   inputBackground: '#1E253E',
